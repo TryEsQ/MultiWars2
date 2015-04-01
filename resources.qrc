@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="identicon_part1">html/identicon_part1.html</file>
+        <file alias="identicon_part2">html/identicon_part2.html</file>
+        <file alias="identicon_part3">html/identicon_part3.html</file>
+        <file alias="program_icon">MultiWars2.png</file>
+    </qresource>
+</RCC>
